@@ -1,0 +1,5 @@
+aiohttp==3.11.14
+anthropic==0.49.0
+asyncio==3.4.3
+mcp==1.4.1
+prompt-toolkit==3.0.50
